@@ -1,0 +1,1525 @@
+fileFormatVersion: 2
+guid: a6d2721b8056e1648a5a90c20d4e0f79
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip R Hand
+    100002: Bip R Toe0
+    100004: Bip R Foot
+    100006: Bip R Calf
+    100008: Bip R Thigh
+    100010: Bip R Finger0
+    100012: Wheel Bone
+    100014: Bip R Forearm
+    100016: Bip R UpperArm
+    100018: HeadBand Bone
+    100020: Bip Head
+    100022: Bip Neck
+    100024: Bip R Clavicle
+    100026: Bip L Finger0
+    100028: ShurikenSpawnDummy
+    100030: Bip L Hand
+    100032: Bip L Forearm
+    100034: Bip L UpperArm
+    100036: Bip L Clavicle
+    100038: //RootNode
+    100042: Bip L Toe0
+    100044: Bip L Foot
+    100046: Bip L Calf
+    100048: Bip L Thigh
+    100050: Bip Spine
+    100052: Bip Pelvis
+    100054: Bip001
+    100056: Right Pedal
+    100058: Squeeze Wheel Bone
+    100062: Wheel Structure bone
+    100064: Left Pedal
+    100066: Player Boy 4
+    400000: Bip R Hand
+    400002: Bip R Toe0
+    400004: Bip R Foot
+    400006: Bip R Calf
+    400008: Bip R Thigh
+    400010: Bip R Finger0
+    400012: Wheel Bone
+    400014: Bip R Forearm
+    400016: Bip R UpperArm
+    400018: HeadBand Bone
+    400020: Bip Head
+    400022: Bip Neck
+    400024: Bip R Clavicle
+    400026: Bip L Finger0
+    400028: ShurikenSpawnDummy
+    400030: Bip L Hand
+    400032: Bip L Forearm
+    400034: Bip L UpperArm
+    400036: Bip L Clavicle
+    400038: //RootNode
+    400042: Bip L Toe0
+    400044: Bip L Foot
+    400046: Bip L Calf
+    400048: Bip L Thigh
+    400050: Bip Spine
+    400052: Bip Pelvis
+    400054: Bip001
+    400056: Right Pedal
+    400058: Squeeze Wheel Bone
+    400062: Wheel Structure bone
+    400064: Left Pedal
+    400066: Player Boy 4
+    2300000: Wheel Bone
+    2300002: Right Pedal
+    2300004: Left Pedal
+    3300000: Wheel Bone
+    3300002: Right Pedal
+    3300004: Left Pedal
+    4300000: Player Boy 4
+    4300002: Wheel Bone
+    4300004: Left Pedal
+    4300006: Right Pedal
+    7400000: run
+    7400002: idle
+    7400004: idle0
+    7400006: dodge left
+    7400008: jump left
+    7400010: attack
+    7400012: dodge right
+    7400014: jump right
+    7400016: hit
+    7400018: special
+    7400020: jump up
+    7400022: strafe left
+    7400024: strafe right
+    7400026: fell
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Player Boy 4
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: 
+      firstFrame: 0
+      lastFrame: 47
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Player Boy 4
+        weight: 1
+      - path: Wheel Structure bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot/Bip L Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head/HeadBand
+          Bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot/Bip R Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/ShurikenSpawnDummy
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Left Pedal
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Right Pedal
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dodge left
+      takeName: 
+      firstFrame: 48
+      lastFrame: 75
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Player Boy 4
+        weight: 1
+      - path: Wheel Structure bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot/Bip L Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head/HeadBand
+          Bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot/Bip R Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/ShurikenSpawnDummy
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Left Pedal
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Right Pedal
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump left
+      takeName: 
+      firstFrame: 75
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Player Boy 4
+        weight: 1
+      - path: Wheel Structure bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot/Bip L Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head/HeadBand
+          Bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot/Bip R Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/ShurikenSpawnDummy
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Left Pedal
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Right Pedal
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack
+      takeName: 
+      firstFrame: 108
+      lastFrame: 125
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Player Boy 4
+        weight: 1
+      - path: Wheel Structure bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot/Bip L Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head/HeadBand
+          Bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot/Bip R Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/ShurikenSpawnDummy
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Left Pedal
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Right Pedal
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dodge right
+      takeName: 
+      firstFrame: 150
+      lastFrame: 177
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Player Boy 4
+        weight: 1
+      - path: Wheel Structure bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot/Bip L Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head/HeadBand
+          Bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot/Bip R Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/ShurikenSpawnDummy
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Left Pedal
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Right Pedal
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump right
+      takeName: 
+      firstFrame: 177
+      lastFrame: 202
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Player Boy 4
+        weight: 1
+      - path: Wheel Structure bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot/Bip L Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head/HeadBand
+          Bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot/Bip R Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/ShurikenSpawnDummy
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Left Pedal
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Right Pedal
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hit
+      takeName: 
+      firstFrame: 202
+      lastFrame: 214
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Player Boy 4
+        weight: 1
+      - path: Wheel Structure bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot/Bip L Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head/HeadBand
+          Bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot/Bip R Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/ShurikenSpawnDummy
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Left Pedal
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Right Pedal
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: special
+      takeName: 
+      firstFrame: 214
+      lastFrame: 274
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Player Boy 4
+        weight: 1
+      - path: Wheel Structure bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot/Bip L Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head/HeadBand
+          Bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot/Bip R Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/ShurikenSpawnDummy
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Left Pedal
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Right Pedal
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: strafe left
+      takeName: 
+      firstFrame: 274
+      lastFrame: 292
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Player Boy 4
+        weight: 1
+      - path: Wheel Structure bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot/Bip L Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head/HeadBand
+          Bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot/Bip R Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/ShurikenSpawnDummy
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Left Pedal
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Right Pedal
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: strafe right
+      takeName: 
+      firstFrame: 292
+      lastFrame: 310
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Player Boy 4
+        weight: 1
+      - path: Wheel Structure bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot/Bip L Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head/HeadBand
+          Bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot/Bip R Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/ShurikenSpawnDummy
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Left Pedal
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Right Pedal
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fell
+      takeName: 
+      firstFrame: 310
+      lastFrame: 354
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Player Boy 4
+        weight: 1
+      - path: Wheel Structure bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot/Bip L Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head/HeadBand
+          Bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot/Bip R Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/ShurikenSpawnDummy
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Left Pedal
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Right Pedal
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump up
+      takeName: 
+      firstFrame: 132
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Player Boy 4
+        weight: 1
+      - path: Wheel Structure bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot/Bip L Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head/HeadBand
+          Bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot/Bip R Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/ShurikenSpawnDummy
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Left Pedal
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Right Pedal
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 360
+      lastFrame: 374
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Player Boy 4
+        weight: 1
+      - path: Wheel Structure bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip
+          L Foot/Bip L Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip Head/HeadBand
+          Bone
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip L Clavicle/Bip
+          L UpperArm/Bip L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip Neck/Bip R Clavicle/Bip
+          R UpperArm/Bip R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip
+          R Foot/Bip R Toe0
+        weight: 1
+      - path: Wheel Structure bone/Bip001/Bip Pelvis/Bip Spine/ShurikenSpawnDummy
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Left Pedal
+        weight: 1
+      - path: Wheel Structure bone/Squeeze Wheel Bone/Wheel Bone/Right Pedal
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.05
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

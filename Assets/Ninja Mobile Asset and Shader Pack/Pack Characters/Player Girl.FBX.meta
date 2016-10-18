@@ -1,0 +1,1293 @@
+fileFormatVersion: 2
+guid: b18699fd5c4405648a2ec0f6b48ddd56
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bip Head
+    100004: Bip Neck
+    100006: Bip R Clavicle
+    100008: Bip L Finger0
+    100010: Bip L Hand
+    100012: Bip L Forearm
+    100014: Bip Pelvis
+    100016: Bip
+    100018: Bip L Calf
+    100020: Bip L Thigh
+    100022: Player Girl Body
+    100024: ShurikenSpawnDummy
+    100026: Bip R Forearm
+    100028: Bip R UpperArm
+    100030: Bip Spine1
+    100032: Bip Spine
+    100034: Bip R Finger0
+    100036: Bip R Hand
+    100038: Bip L UpperArm
+    100040: Bip L Clavicle
+    100042: Bip L Toe0
+    100044: Bip L Foot
+    100046: Bip R Calf
+    100048: Bip R Thigh
+    100050: Bip R Toe0
+    100052: Bip R Foot
+    400000: //RootNode
+    400002: Bip Head
+    400004: Bip Neck
+    400006: Bip R Clavicle
+    400008: Bip L Finger0
+    400010: Bip L Hand
+    400012: Bip L Forearm
+    400014: Bip Pelvis
+    400016: Bip
+    400018: Bip L Calf
+    400020: Bip L Thigh
+    400022: Player Girl Body
+    400024: ShurikenSpawnDummy
+    400026: Bip R Forearm
+    400028: Bip R UpperArm
+    400030: Bip Spine1
+    400032: Bip Spine
+    400034: Bip R Finger0
+    400036: Bip R Hand
+    400038: Bip L UpperArm
+    400040: Bip L Clavicle
+    400042: Bip L Toe0
+    400044: Bip L Foot
+    400046: Bip R Calf
+    400048: Bip R Thigh
+    400050: Bip R Toe0
+    400052: Bip R Foot
+    4300000: NinjaPlayerGirl_Body
+    4300002: Player Girl Body
+    7400000: run
+    7400030: idle - breathe
+    7400032: dodge
+    7400034: jump roll
+    7400036: attack loop
+    7400038: jump
+    7400040: dodge right
+    7400042: jump roll right
+    7400044: hit
+    7400046: special
+    7400048: idle
+    7400050: jump up
+    7400052: dodge left
+    7400054: jump left
+    7400056: attack
+    7400058: jump right
+    7400060: idle0
+    7400062: idle1
+    7400064: strafe left
+    7400066: strafe right
+    7400068: fell
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Player Girl Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: 
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip
+        weight: 1
+      - path: Bip/Bip Pelvis
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot/Bip L Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot/Bip R Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip Head
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/ShurikenSpawnDummy
+        weight: 1
+      - path: Player Girl Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dodge left
+      takeName: 
+      firstFrame: 24
+      lastFrame: 50
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip
+        weight: 1
+      - path: Bip/Bip Pelvis
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot/Bip L Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot/Bip R Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip Head
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/ShurikenSpawnDummy
+        weight: 1
+      - path: Player Girl Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump left
+      takeName: 
+      firstFrame: 51
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip
+        weight: 1
+      - path: Bip/Bip Pelvis
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot/Bip L Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot/Bip R Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip Head
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/ShurikenSpawnDummy
+        weight: 1
+      - path: Player Girl Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack
+      takeName: 
+      firstFrame: 84
+      lastFrame: 100
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip
+        weight: 1
+      - path: Bip/Bip Pelvis
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot/Bip L Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot/Bip R Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip Head
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/ShurikenSpawnDummy
+        weight: 1
+      - path: Player Girl Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump up
+      takeName: 
+      firstFrame: 108
+      lastFrame: 125
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip
+        weight: 1
+      - path: Bip/Bip Pelvis
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot/Bip L Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot/Bip R Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip Head
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/ShurikenSpawnDummy
+        weight: 1
+      - path: Player Girl Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dodge right
+      takeName: 
+      firstFrame: 126
+      lastFrame: 152
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip
+        weight: 1
+      - path: Bip/Bip Pelvis
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot/Bip L Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot/Bip R Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip Head
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/ShurikenSpawnDummy
+        weight: 1
+      - path: Player Girl Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump right
+      takeName: 
+      firstFrame: 153
+      lastFrame: 177
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip
+        weight: 1
+      - path: Bip/Bip Pelvis
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot/Bip L Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot/Bip R Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip Head
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/ShurikenSpawnDummy
+        weight: 1
+      - path: Player Girl Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hit
+      takeName: 
+      firstFrame: 178
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip
+        weight: 1
+      - path: Bip/Bip Pelvis
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot/Bip L Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot/Bip R Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip Head
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/ShurikenSpawnDummy
+        weight: 1
+      - path: Player Girl Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: special
+      takeName: 
+      firstFrame: 190
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip
+        weight: 1
+      - path: Bip/Bip Pelvis
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot/Bip L Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot/Bip R Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip Head
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/ShurikenSpawnDummy
+        weight: 1
+      - path: Player Girl Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: strafe left
+      takeName: 
+      firstFrame: 251
+      lastFrame: 268
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip
+        weight: 1
+      - path: Bip/Bip Pelvis
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot/Bip L Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot/Bip R Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip Head
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/ShurikenSpawnDummy
+        weight: 1
+      - path: Player Girl Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: strafe right
+      takeName: 
+      firstFrame: 269
+      lastFrame: 286
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip
+        weight: 1
+      - path: Bip/Bip Pelvis
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot/Bip L Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot/Bip R Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip Head
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/ShurikenSpawnDummy
+        weight: 1
+      - path: Player Girl Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fell
+      takeName: 
+      firstFrame: 286
+      lastFrame: 330
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip
+        weight: 1
+      - path: Bip/Bip Pelvis
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot/Bip L Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot/Bip R Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip Head
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/ShurikenSpawnDummy
+        weight: 1
+      - path: Player Girl Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 340
+      lastFrame: 354
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip
+        weight: 1
+      - path: Bip/Bip Pelvis
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip L Thigh/Bip L Calf/Bip L Foot/Bip L Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip R Thigh/Bip R Calf/Bip R Foot/Bip R Toe0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip Head
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip L Clavicle/Bip L UpperArm/Bip
+          L Forearm/Bip L Hand/Bip L Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/Bip Neck/Bip R Clavicle/Bip R UpperArm/Bip
+          R Forearm/Bip R Hand/Bip R Finger0
+        weight: 1
+      - path: Bip/Bip Pelvis/Bip Spine/Bip Spine1/ShurikenSpawnDummy
+        weight: 1
+      - path: Player Girl Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.05
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

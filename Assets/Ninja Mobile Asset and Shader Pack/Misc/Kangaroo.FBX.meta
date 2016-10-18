@@ -1,0 +1,1046 @@
+fileFormatVersion: 2
+guid: 27faa8c05110dad40affb92ba214d53a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: CTR Bip Kangaroo
+    100002: CTR L Foot
+    100004: CTR Master Kangaroo
+    100006: CTR R Foot
+    100008: //RootNode
+    100010: Kangaroo
+    100012: Kangaroo Head Bone
+    100014: Kangaroo L Calf Bone
+    100016: Kangaroo L Ear Bone
+    100018: Kangaroo L Foot Bone
+    100020: Kangaroo L Hand Bone
+    100022: Kangaroo L LowerArm Bone
+    100024: Kangaroo L Nail Bone
+    100026: Kangaroo L Thigh Bone
+    100028: Kangaroo L Toe Bone
+    100030: Kangaroo L UpperArm Bone
+    100032: Kangaroo Neck Bone
+    100034: Kangaroo R Calf Bone
+    100036: Kangaroo R Ear Bone
+    100038: Kangaroo R Foot Bone
+    100040: Kangaroo R Hand Bone
+    100042: Kangaroo R LowerArm Bone
+    100044: Kangaroo R Nail Bone
+    100046: Kangaroo R Thigh Bone
+    100048: Kangaroo R Toe Bone
+    100050: Kangaroo R UpperArm Bone
+    100052: Kangaroo Spine01 Bone
+    100054: Kangaroo Spine02 Bone
+    100056: Kangaroo Tail Bone001
+    100058: Kangaroo Tail Bone002
+    100060: Kangaroo Tail Bone003
+    100062: Kangaroo Tail Bone004
+    100064: Kangaroo ref front
+    400000: CTR Bip Kangaroo
+    400002: CTR L Foot
+    400004: CTR Master Kangaroo
+    400006: CTR R Foot
+    400008: //RootNode
+    400010: Kangaroo
+    400012: Kangaroo Head Bone
+    400014: Kangaroo L Calf Bone
+    400016: Kangaroo L Ear Bone
+    400018: Kangaroo L Foot Bone
+    400020: Kangaroo L Hand Bone
+    400022: Kangaroo L LowerArm Bone
+    400024: Kangaroo L Nail Bone
+    400026: Kangaroo L Thigh Bone
+    400028: Kangaroo L Toe Bone
+    400030: Kangaroo L UpperArm Bone
+    400032: Kangaroo Neck Bone
+    400034: Kangaroo R Calf Bone
+    400036: Kangaroo R Ear Bone
+    400038: Kangaroo R Foot Bone
+    400040: Kangaroo R Hand Bone
+    400042: Kangaroo R LowerArm Bone
+    400044: Kangaroo R Nail Bone
+    400046: Kangaroo R Thigh Bone
+    400048: Kangaroo R Toe Bone
+    400050: Kangaroo R UpperArm Bone
+    400052: Kangaroo Spine01 Bone
+    400054: Kangaroo Spine02 Bone
+    400056: Kangaroo Tail Bone001
+    400058: Kangaroo Tail Bone002
+    400060: Kangaroo Tail Bone003
+    400062: Kangaroo Tail Bone004
+    400064: Kangaroo ref front
+    2300000: CTR L Foot
+    2300002: CTR R Foot
+    2300004: Kangaroo Head Bone
+    2300006: Kangaroo L Thigh Bone
+    2300008: Kangaroo Neck Bone
+    2300010: Kangaroo R Calf Bone
+    2300012: Kangaroo R Thigh Bone
+    2300014: Kangaroo Spine01 Bone
+    2300016: Kangaroo Spine02 Bone
+    2300018: Kangaroo ref front
+    3300000: CTR L Foot
+    3300002: CTR R Foot
+    3300004: Kangaroo Head Bone
+    3300006: Kangaroo L Thigh Bone
+    3300008: Kangaroo Neck Bone
+    3300010: Kangaroo R Calf Bone
+    3300012: Kangaroo R Thigh Bone
+    3300014: Kangaroo Spine01 Bone
+    3300016: Kangaroo Spine02 Bone
+    3300018: Kangaroo ref front
+    4300000: Kangaroo
+    4300002: Kangaroo Spine01 Bone
+    4300004: Kangaroo Spine02 Bone
+    4300006: Kangaroo Neck Bone
+    4300008: Kangaroo Head Bone
+    4300010: Kangaroo R Thigh Bone
+    4300012: Kangaroo R Calf Bone
+    4300014: Kangaroo L Thigh Bone
+    4300016: CTR L Foot
+    4300018: CTR R Foot
+    4300020: Kangaroo ref front
+    7400000: idle
+    7400002: idle to stand to punch
+    7400004: punch
+    7400006: stand to punch to idle
+    7400008: idle to jump
+    7400010: jump loop
+    7400012: jump to idle
+    7400014: Stand idle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Kangaroo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 77
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CTR Master Kangaroo
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone/Kangaroo L Foot Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone/Kangaroo L Foot Bone/Kangaroo L Toe Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone/Kangaroo L Foot Bone/Kangaroo L Toe Bone/Kangaroo L Nail Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone/Kangaroo R Foot Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone/Kangaroo R Foot Bone/Kangaroo R Toe Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone/Kangaroo R Foot Bone/Kangaroo R Toe Bone/Kangaroo R Nail Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo L UpperArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo L UpperArm Bone/Kangaroo L LowerArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo L UpperArm Bone/Kangaroo L LowerArm Bone/Kangaroo
+          L Hand Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone/Kangaroo Head Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone/Kangaroo Head Bone/Kangaroo L Ear Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone/Kangaroo Head Bone/Kangaroo R Ear Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo R UpperArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo R UpperArm Bone/Kangaroo R LowerArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo R UpperArm Bone/Kangaroo R LowerArm Bone/Kangaroo
+          R Hand Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001/Kangaroo
+          Tail Bone002
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001/Kangaroo
+          Tail Bone002/Kangaroo Tail Bone003
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001/Kangaroo
+          Tail Bone002/Kangaroo Tail Bone003/Kangaroo Tail Bone004
+        weight: 1
+      - path: Kangaroo
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle to stand to punch
+      takeName: Take 001
+      firstFrame: 77
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CTR Master Kangaroo
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone/Kangaroo L Foot Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone/Kangaroo L Foot Bone/Kangaroo L Toe Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone/Kangaroo L Foot Bone/Kangaroo L Toe Bone/Kangaroo L Nail Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone/Kangaroo R Foot Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone/Kangaroo R Foot Bone/Kangaroo R Toe Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone/Kangaroo R Foot Bone/Kangaroo R Toe Bone/Kangaroo R Nail Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo L UpperArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo L UpperArm Bone/Kangaroo L LowerArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo L UpperArm Bone/Kangaroo L LowerArm Bone/Kangaroo
+          L Hand Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone/Kangaroo Head Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone/Kangaroo Head Bone/Kangaroo L Ear Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone/Kangaroo Head Bone/Kangaroo R Ear Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo R UpperArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo R UpperArm Bone/Kangaroo R LowerArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo R UpperArm Bone/Kangaroo R LowerArm Bone/Kangaroo
+          R Hand Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001/Kangaroo
+          Tail Bone002
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001/Kangaroo
+          Tail Bone002/Kangaroo Tail Bone003
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001/Kangaroo
+          Tail Bone002/Kangaroo Tail Bone003/Kangaroo Tail Bone004
+        weight: 1
+      - path: Kangaroo
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: punch
+      takeName: Take 001
+      firstFrame: 160
+      lastFrame: 198
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CTR Master Kangaroo
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone/Kangaroo L Foot Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone/Kangaroo L Foot Bone/Kangaroo L Toe Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone/Kangaroo L Foot Bone/Kangaroo L Toe Bone/Kangaroo L Nail Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone/Kangaroo R Foot Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone/Kangaroo R Foot Bone/Kangaroo R Toe Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone/Kangaroo R Foot Bone/Kangaroo R Toe Bone/Kangaroo R Nail Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo L UpperArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo L UpperArm Bone/Kangaroo L LowerArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo L UpperArm Bone/Kangaroo L LowerArm Bone/Kangaroo
+          L Hand Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone/Kangaroo Head Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone/Kangaroo Head Bone/Kangaroo L Ear Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone/Kangaroo Head Bone/Kangaroo R Ear Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo R UpperArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo R UpperArm Bone/Kangaroo R LowerArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo R UpperArm Bone/Kangaroo R LowerArm Bone/Kangaroo
+          R Hand Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001/Kangaroo
+          Tail Bone002
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001/Kangaroo
+          Tail Bone002/Kangaroo Tail Bone003
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001/Kangaroo
+          Tail Bone002/Kangaroo Tail Bone003/Kangaroo Tail Bone004
+        weight: 1
+      - path: Kangaroo
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: stand to punch to idle
+      takeName: Take 001
+      firstFrame: 138
+      lastFrame: 162
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CTR Master Kangaroo
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone/Kangaroo L Foot Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone/Kangaroo L Foot Bone/Kangaroo L Toe Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone/Kangaroo L Foot Bone/Kangaroo L Toe Bone/Kangaroo L Nail Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone/Kangaroo R Foot Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone/Kangaroo R Foot Bone/Kangaroo R Toe Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone/Kangaroo R Foot Bone/Kangaroo R Toe Bone/Kangaroo R Nail Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo L UpperArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo L UpperArm Bone/Kangaroo L LowerArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo L UpperArm Bone/Kangaroo L LowerArm Bone/Kangaroo
+          L Hand Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone/Kangaroo Head Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone/Kangaroo Head Bone/Kangaroo L Ear Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone/Kangaroo Head Bone/Kangaroo R Ear Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo R UpperArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo R UpperArm Bone/Kangaroo R LowerArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo R UpperArm Bone/Kangaroo R LowerArm Bone/Kangaroo
+          R Hand Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001/Kangaroo
+          Tail Bone002
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001/Kangaroo
+          Tail Bone002/Kangaroo Tail Bone003
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001/Kangaroo
+          Tail Bone002/Kangaroo Tail Bone003/Kangaroo Tail Bone004
+        weight: 1
+      - path: Kangaroo
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle to jump
+      takeName: Take 001
+      firstFrame: 222
+      lastFrame: 229
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CTR Master Kangaroo
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone/Kangaroo L Foot Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone/Kangaroo L Foot Bone/Kangaroo L Toe Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone/Kangaroo L Foot Bone/Kangaroo L Toe Bone/Kangaroo L Nail Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone/Kangaroo R Foot Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone/Kangaroo R Foot Bone/Kangaroo R Toe Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone/Kangaroo R Foot Bone/Kangaroo R Toe Bone/Kangaroo R Nail Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo L UpperArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo L UpperArm Bone/Kangaroo L LowerArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo L UpperArm Bone/Kangaroo L LowerArm Bone/Kangaroo
+          L Hand Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone/Kangaroo Head Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone/Kangaroo Head Bone/Kangaroo L Ear Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone/Kangaroo Head Bone/Kangaroo R Ear Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo R UpperArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo R UpperArm Bone/Kangaroo R LowerArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo R UpperArm Bone/Kangaroo R LowerArm Bone/Kangaroo
+          R Hand Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001/Kangaroo
+          Tail Bone002
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001/Kangaroo
+          Tail Bone002/Kangaroo Tail Bone003
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001/Kangaroo
+          Tail Bone002/Kangaroo Tail Bone003/Kangaroo Tail Bone004
+        weight: 1
+      - path: Kangaroo
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: jump loop
+      takeName: Take 001
+      firstFrame: 229
+      lastFrame: 246
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CTR Master Kangaroo
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone/Kangaroo L Foot Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone/Kangaroo L Foot Bone/Kangaroo L Toe Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone/Kangaroo L Foot Bone/Kangaroo L Toe Bone/Kangaroo L Nail Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone/Kangaroo R Foot Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone/Kangaroo R Foot Bone/Kangaroo R Toe Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone/Kangaroo R Foot Bone/Kangaroo R Toe Bone/Kangaroo R Nail Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo L UpperArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo L UpperArm Bone/Kangaroo L LowerArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo L UpperArm Bone/Kangaroo L LowerArm Bone/Kangaroo
+          L Hand Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone/Kangaroo Head Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone/Kangaroo Head Bone/Kangaroo L Ear Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone/Kangaroo Head Bone/Kangaroo R Ear Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo R UpperArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo R UpperArm Bone/Kangaroo R LowerArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo R UpperArm Bone/Kangaroo R LowerArm Bone/Kangaroo
+          R Hand Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001/Kangaroo
+          Tail Bone002
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001/Kangaroo
+          Tail Bone002/Kangaroo Tail Bone003
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001/Kangaroo
+          Tail Bone002/Kangaroo Tail Bone003/Kangaroo Tail Bone004
+        weight: 1
+      - path: Kangaroo
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: jump to idle
+      takeName: Take 001
+      firstFrame: 246
+      lastFrame: 254
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CTR Master Kangaroo
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone/Kangaroo L Foot Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone/Kangaroo L Foot Bone/Kangaroo L Toe Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone/Kangaroo L Foot Bone/Kangaroo L Toe Bone/Kangaroo L Nail Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone/Kangaroo R Foot Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone/Kangaroo R Foot Bone/Kangaroo R Toe Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone/Kangaroo R Foot Bone/Kangaroo R Toe Bone/Kangaroo R Nail Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo L UpperArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo L UpperArm Bone/Kangaroo L LowerArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo L UpperArm Bone/Kangaroo L LowerArm Bone/Kangaroo
+          L Hand Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone/Kangaroo Head Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone/Kangaroo Head Bone/Kangaroo L Ear Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone/Kangaroo Head Bone/Kangaroo R Ear Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo R UpperArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo R UpperArm Bone/Kangaroo R LowerArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo R UpperArm Bone/Kangaroo R LowerArm Bone/Kangaroo
+          R Hand Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001/Kangaroo
+          Tail Bone002
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001/Kangaroo
+          Tail Bone002/Kangaroo Tail Bone003
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001/Kangaroo
+          Tail Bone002/Kangaroo Tail Bone003/Kangaroo Tail Bone004
+        weight: 1
+      - path: Kangaroo
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Stand idle
+      takeName: Take 001
+      firstFrame: 105
+      lastFrame: 155
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CTR Master Kangaroo
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone/Kangaroo L Foot Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone/Kangaroo L Foot Bone/Kangaroo L Toe Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo L Thigh Bone/Kangaroo
+          L Calf Bone/Kangaroo L Foot Bone/Kangaroo L Toe Bone/Kangaroo L Nail Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone/Kangaroo R Foot Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone/Kangaroo R Foot Bone/Kangaroo R Toe Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo R Thigh Bone/Kangaroo
+          R Calf Bone/Kangaroo R Foot Bone/Kangaroo R Toe Bone/Kangaroo R Nail Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo L UpperArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo L UpperArm Bone/Kangaroo L LowerArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo L UpperArm Bone/Kangaroo L LowerArm Bone/Kangaroo
+          L Hand Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone/Kangaroo Head Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone/Kangaroo Head Bone/Kangaroo L Ear Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo Neck Bone/Kangaroo Head Bone/Kangaroo R Ear Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo R UpperArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo R UpperArm Bone/Kangaroo R LowerArm Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Spine01 Bone/Kangaroo
+          Spine02 Bone/Kangaroo R UpperArm Bone/Kangaroo R LowerArm Bone/Kangaroo
+          R Hand Bone
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001/Kangaroo
+          Tail Bone002
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001/Kangaroo
+          Tail Bone002/Kangaroo Tail Bone003
+        weight: 1
+      - path: CTR Master Kangaroo/CTR Bip Kangaroo/Kangaroo Tail Bone001/Kangaroo
+          Tail Bone002/Kangaroo Tail Bone003/Kangaroo Tail Bone004
+        weight: 1
+      - path: Kangaroo
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: CTR Master Kangaroo
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
