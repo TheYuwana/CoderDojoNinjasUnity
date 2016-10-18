@@ -4,20 +4,27 @@ using System.Collections;
 public class CoinController : MonoBehaviour {
 
     [Header("Platform")]
-    public bool fixedToPlatorm;
-    public GameObject platform;
+    public GameObject fixedPlatform;
+    private bool _isFixed = false;
 
     // Use this for initialization
     void Start () {
-	    
+
+        if (fixedPlatform != null) {
+            _isFixed = true;
+        }
 	}
 	
 	// Update is called once per frame, used for rendering 
 	void Update () {
-	    
-        
 
+        if (_isFixed) {
+            transform.position = new Vector3(fixedPlatform.transform.position.x, fixedPlatform.transform.position.y + 0.5f, fixedPlatform.transform.position.z);
+        }
+        
 	}
+
+    
 
     // Used for updating physics related logic
     void FixedUpdate() {

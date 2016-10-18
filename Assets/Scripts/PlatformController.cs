@@ -3,9 +3,6 @@ using System.Collections;
 
 public class PlatformController : MonoBehaviour {
 
-    [Header("Platform")]
-    public GameObject platform;
-
     [Header("Activate Movement")]
     public bool moveX;
     public bool moveY;
@@ -42,9 +39,9 @@ public class PlatformController : MonoBehaviour {
 
     // Use this for initialization
     void Start () {
-        _platformStartX = platform.transform.position.x;
-        _platformStartY = platform.transform.position.y;
-        _platformStartZ = platform.transform.position.z;
+        _platformStartX = transform.position.x;
+        _platformStartY = transform.position.y;
+        _platformStartZ = transform.position.z;
 
         _minYPosition = _platformStartY - YLimitAmount;
         _maxYPosition = _platformStartY + YLimitAmount;
@@ -68,22 +65,22 @@ public class PlatformController : MonoBehaviour {
 
             if (useXLimit){
 
-                if (platform.transform.position.x > _maxXPosition) { speedX = speedX * -1; }
-                if (platform.transform.position.x < _minXPosition) { speedX = speedX * -1; }
+                if (transform.position.x > _maxXPosition) { speedX = speedX * -1; }
+                if (transform.position.x < _minXPosition) { speedX = speedX * -1; }
             }
 
-            platform.transform.Translate(Vector3.right * (speedX / 1000));
+            transform.Translate(Vector3.right * (speedX / 1000));
         }
 
         if (moveY){
 
             if (useYLimit){
 
-                if (platform.transform.position.y > _maxYPosition) { speedY = speedY * -1; }
-                if (platform.transform.position.y < _minYPosition) { speedY = speedY * -1; }
+                if (transform.position.y > _maxYPosition) { speedY = speedY * -1; }
+                if (transform.position.y < _minYPosition) { speedY = speedY * -1; }
             }
 
-            platform.transform.Translate(Vector3.up * (speedY / 1000));
+            transform.Translate(Vector3.up * (speedY / 1000));
 
         }
 
@@ -91,11 +88,11 @@ public class PlatformController : MonoBehaviour {
 
             if (useZLimit){
 
-                if (platform.transform.position.z > _maxZPosition) { speedZ = speedZ * -1; }
-                if (platform.transform.position.z < _minZPosition) { speedZ = speedZ * -1; }
+                if (transform.position.z > _maxZPosition) { speedZ = speedZ * -1; }
+                if (transform.position.z < _minZPosition) { speedZ = speedZ * -1; }
             }
 
-            platform.transform.Translate(Vector3.forward * (speedZ / 1000));
+            transform.Translate(Vector3.forward * (speedZ / 1000));
         }
     }
 }
