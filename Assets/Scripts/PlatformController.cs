@@ -9,8 +9,8 @@ public class PlatformController : MonoBehaviour {
     public bool moveZ;
 
     [Header("Movement Speeds")]
-    public float speedY;
     public float speedX;
+    public float speedY;
     public float speedZ;
 
     [Header("X Limit")]
