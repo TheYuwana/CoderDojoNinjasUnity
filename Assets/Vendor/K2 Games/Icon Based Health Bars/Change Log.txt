@@ -1,0 +1,21 @@
+*Version 3.0*
+Reorganising folder structure to keep inline with our other packages
+
+Made the button for removing inactive images dynamicly appear instead of being there all the time
+
+Fixed a bug where elements where spawning the wrong scale
+
+Removed warnings
+
+Fixed issues around using the canvas rendering mode 'Screen Space - Camera' 
+
+Added Simple Transitions
+
+Added the Quartered Hearts style
+
+Optimised
+
+Added an accessor to currentValue via CurrentValue instead
+
+Created this file
+***

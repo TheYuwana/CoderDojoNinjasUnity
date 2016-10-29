@@ -35,7 +35,6 @@ public class CoinController : MonoBehaviour {
 
         if (col.gameObject.name == "Ninja") {
             gameObject.SetActive(false);
-            Debug.Log("Coin collected!");
         }
     }
 }
