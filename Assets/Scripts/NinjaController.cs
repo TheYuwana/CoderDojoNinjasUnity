@@ -80,62 +80,14 @@ public class NinjaController : MonoBehaviour {
             _animator.SetBool("Forward", false);
             _animator.SetBool("Backwards", false);
 
-            if (Input.GetKey(KeyCode.W)) {
-                _isMoving = true;
-                _animator.SetBool("Forward", true);
-                transform.Translate(Vector3.forward * -_moveSpeed * Time.deltaTime);
-            }
-
-            if (Input.GetKey(KeyCode.S)) {
-                _isMoving = true;
-                _animator.SetBool("Backwards", true);
-                transform.Translate(Vector3.forward * _moveSpeed * Time.deltaTime);
-            }
-
-            if (Input.GetKey(KeyCode.A)) {
-                if (_animator.GetBool("Backwards")) {
-                    rotateSpeedTmp = rotateSpeed;
-                } else {
-                    rotateSpeedTmp = -rotateSpeed;
-                }
-                transform.Rotate(Vector3.up, rotateSpeedTmp * Time.deltaTime);
-            }
-
-            if (Input.GetKey(KeyCode.D)) {
-                if (_animator.GetBool("Backwards")) {
-                    rotateSpeedTmp = -rotateSpeed;
-                } else {
-                    rotateSpeedTmp = rotateSpeed;
-                }
-                transform.Rotate(Vector3.up, rotateSpeedTmp * Time.deltaTime);
-            }
-
-            if (Input.GetKeyDown(KeyCode.Space) && !_isJumping) {
-                _animator.SetBool("Jump", true);
-                _isJumping = true;
-            }
+            //Ninja movement
         }        
 	}
 
     
     void OnCollisionEnter(Collision col) {
 
-        if (col.gameObject.name == "Water") {
-
-            _animator.Play("fell", 0);
-            _animator.SetBool("Forward", false);
-            _animator.SetBool("Jump", false);
-            _animator.SetBool("Backwards", false);
-            _animator.SetBool("Die", true);
-            _isDead = true;
-            _totalLife = _totalLife - 1;
-            _hearts[_totalLife].SetActive(false);
-        }
-
-        if (col.gameObject.tag == "Coin") {
-
-            EventManager.TriggerEvent("setScore");
-        }
+        //Ninja COllision script
     }
 
     void OnCollisionStay(Collision col) {
